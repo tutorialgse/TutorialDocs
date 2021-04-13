@@ -1,8 +1,6 @@
 ---
 title: 'Create a Website with RStudio: Setup'
-output:
-  html_document:
-    df_print: paged
+output: rmarkdown::github_document
 ---
 
 This is the first part of the tutorial to create a website using [Hugo](https://gohugo.io/) and [RStudio](https://www.rstudio.com). We are going to use a particular flavor of Hugo templates called [Wowchemy](https://wowchemy.com/) (previosuly know as academic Hugo). 
